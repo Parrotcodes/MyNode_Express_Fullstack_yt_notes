@@ -1,0 +1,15 @@
+{
+  "name": "practicenode",
+  "version": "1.0.0",
+  "description": "This is my nodejs and express js full tutorial practice session code!'",
+  "main": "0.global_paths.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chilukala Rakesh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}

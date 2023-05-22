@@ -1,0 +1,5 @@
+This is my text file !
+only to see the path of a particular file in any system using path module
+
+
+You can learn more about path module by refer my practice section 7-path_moudles.js file
