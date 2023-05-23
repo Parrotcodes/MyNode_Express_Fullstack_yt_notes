@@ -6,8 +6,9 @@ readFile('./pathfolder/content/first.txt','utf8',(err,result)=>{
     if(err){
     console.log('Error:'+err);
     }else{
-        console.log(result);
-    }
+    console.log('check you path....');
+    res.end('path not found?')
+  }
     console.log('Inside callback function log line ');
 })
 
