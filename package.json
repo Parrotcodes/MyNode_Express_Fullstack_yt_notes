@@ -4,7 +4,8 @@
   "description": "This is my nodejs and express js full tutorial practice session code!'",
   "main": "0.global_paths.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Chilukala Rakesh",
   "license": "ISC",

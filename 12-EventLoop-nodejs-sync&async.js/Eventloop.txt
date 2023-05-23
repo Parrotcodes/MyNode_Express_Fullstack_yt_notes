@@ -1,0 +1,12 @@
+Once Javascript is done executing immedaiate code only then it executes callback
+---> by this way we can offload time consuming operations to the browser 
+
+TO resolve this problem
+=> The browser does provide som apis where we can offload that time consuming tasks.
+=> That brings us to that our main friend the NodeJS EVENT LOOP
+=> Eg: When there are many useres are accessing the same app or application by browsing
+Using this synchronous method every user need to wait for the previous request execution done until that time there request is in hold in the stack 
+to overcome this type problem in NodeJS the eventloop does it registers the callback only when the operation is complete it executes but we run our immediate code first and only then when we have time we executes the callback 
+
+To understand it in detail vist Nodejs.dev site 
+FOr practical implementaion see the next .js code files and practice.
