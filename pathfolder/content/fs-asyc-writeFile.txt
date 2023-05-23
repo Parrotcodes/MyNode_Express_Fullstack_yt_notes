@@ -1,0 +1,1 @@
+THIS IS Ultimate Task of WriteFile Using async promises of fs-module using await and async () libraries from the nodeJS modules.
